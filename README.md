@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mp-zamora/count.svg?"  />
+</div>
+
+###
+
 <h1 align="center">Hi! I am Miguel 👋</h1>
 
 ###
@@ -65,5 +71,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mp-zamora&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
