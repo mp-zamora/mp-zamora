@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mp-zamora/count.svg?"  />
+</div>
+<h3 align="center">An engineering and software development student</h3>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://es.linkedin.com/in/miguel-pe%C3%B1as-zamora-49599b288" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mp-zamora/count.svg?"  />
-</div>
-<h3 align="center">An engineering and software development student</h3>
 
 - 🔭 I’m currently working on **42's FdF project**
 
