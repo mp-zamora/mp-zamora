@@ -16,9 +16,11 @@
 </div>
 
 ###
+
 <div align="center">
   <a align="center" href="miguel@mpzamora.com" target="_blank">📫 miguel@mpzamora.com 📫</a>
 <div />
+  
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
