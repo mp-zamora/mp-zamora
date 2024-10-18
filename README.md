@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
+<h3 align="center">An engineering and software development student</h3>
 <div align="center">
   <img src="https://profile-counter.glitch.me/mp-zamora/count.svg?"  />
 </div>
-<h3 align="center">An engineering and software development student</h3>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://es.linkedin.com/in/miguel-pe%C3%B1as-zamora-49599b288" target="_blank">
