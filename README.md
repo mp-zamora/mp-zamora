@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 42 Madrid student learning C.<br>- 📚 Double major student in Aerospace and Telecommunications Engineering at URJC.<br>- ⚡ In my free time I code and learn about Operative Systems, Networks and Cybersecurity.<br>- 📖 I love to read science-fiction books.</p>
+<p align="left">- 🔭 42 Madrid student learning C.<br>- 📚 Double major student in Aerospace and Telecommunications Engineering at URJC.<br>- ⚡ In my free time I code and learn about Operative Systems, Networks and Cybersecurity.<br>- 📖 I love to read science-fiction books, currently reading Isaac Asimov.</p>
 
 ###
 
@@ -61,8 +61,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mp-zamora&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=mp-zamora&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mp-zamora&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mp-zamora&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mp-zamora&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
