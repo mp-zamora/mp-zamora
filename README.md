@@ -51,16 +51,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mp-zamora/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mp-zamora&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=mp-zamora&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
