@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 Student at 42 Madrid learning C & Computer Science.<br>- 📚 Student of the double major in Aerospace and Telecommunications Engineering at URJC.<br>- ⚡ In my free time I code and learn about Operative Systems, Networks and Cybersecurity.<br>- 📖 I love to read science-fiction books, currently reading Isaac Asimov.</p>
+<p align="left">- 🔭 Student at 42 Madrid learning C & Computer Science.<br>- 📚 Aerospace and Telecommunications Engineering double major stuent at URJC.<br>- ⚡ In my free time I code and learn about Operative Systems, Networks and Cybersecurity.<br>- 📖 I love to read science-fiction books, currently reading Isaac Asimov.</p>
 
 ###
 
