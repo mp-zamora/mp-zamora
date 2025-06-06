@@ -7,9 +7,9 @@
 ###
 
 <div align="center">
-  <a href="https://es.linkedin.com/in/miguel-pe%C3%B1as-zamora-49599b288" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  </a>
+  #<a href="https://es.linkedin.com/in/miguel-pe%C3%B1as-zamora-49599b288" target="_blank">
+  #  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  #</a>
   <a href="mailto:miguel@mpzamora.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=8a90c7&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
@@ -27,7 +27,11 @@
 
 ###
 
-<p align="left">- 🔭 Student at 42 Madrid learning C & Computer Science.<br>- 📚 Aerospace and Telecommunications Engineering double bachelor's stuent at URJC.<br>- ⚡ In my free time I code and learn about Operative Systems, Networks and Cybersecurity.<br>- 📖 I love to read science-fiction books, currently reading Isaac Asimov.</p>
+<p align="left">
+  - 🔭 Student at 42 Madrid learning C & Computer Science.<br>
+  #- 📚 Double Bacherlors student in Aerospace and Telecommunications Engineering at URJC.<br>
+  - ⚡ In my free time I code and learn about Operative Systems, Networks and Cybersecurity.<br>
+  - 📖 I love to read science-fiction books, currently reading Isaac Asimov.</p>
 
 ###
 
